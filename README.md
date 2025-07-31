@@ -9,4 +9,4 @@
 * Test Cases I MS office I Manual Testing I Android Studio I API Testing I UI Testing I Regression Testing I Agile I JIRA I Postman I SQL I Console I JSON I Figma I DevTools I GitHub I Miro | Google Drive
 
 
-°° You can check my Jira work, as I have to report Bugs on projects I worked °°
+°° You can check my Jira work, as I have to report Bugs on projects I worked (check 'Jira Report file in this repository' °°
